@@ -220,20 +220,27 @@ public class ShiroConfig {
 如果是登录状态，就会显示 当前用户为：xxx
 
 未登录状态点击add/update，就会被拦截，进入登录页面
+
 ![登录页面](http://qcorkht4q.bkt.clouddn.com/blog1595079966049.png)
 
 数据库中没有该用户名，就显示
+
 ![用户名不存在](http://qcorkht4q.bkt.clouddn.com/blog1595080067624.png)
 
 密码不正确，显示
+
 ![密码错误](http://qcorkht4q.bkt.clouddn.com/blog1595080096218.png)
 
 ---
 
 fukuoka是一个role = admin的user
+
 ![fukuoka](http://qcorkht4q.bkt.clouddn.com/blog1595080164672.png)
+
 ![add](http://qcorkht4q.bkt.clouddn.com/blog1595080178908.png)
+
 点update，就会跳转到没有权限页面
+
 ![没有权限](http://qcorkht4q.bkt.clouddn.com/blog1595080222493.png)
 
 ---
@@ -241,7 +248,9 @@ fukuoka是一个role = admin的user
 
 username: okinawa
 password: okinawa
+
 ![okinawa](http://qcorkht4q.bkt.clouddn.com/blog1595080408820.png)
 
 数据库中的密码就是MD5加密后的
+
 ![MD5](http://qcorkht4q.bkt.clouddn.com/blog1595080443855.png)
