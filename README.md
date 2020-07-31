@@ -221,36 +221,36 @@ public class ShiroConfig {
 
 未登录状态点击add/update，就会被拦截，进入登录页面
 
-![登录页面](http://qcorkht4q.bkt.clouddn.com/blog1595079966049.png)
+![登录页面](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595079966049.png)
 
 数据库中没有该用户名，就显示
 
-![用户名不存在](http://qcorkht4q.bkt.clouddn.com/blog1595080067624.png)
+![用户名不存在](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080067624.png)
 
 密码不正确，显示
 
-![密码错误](http://qcorkht4q.bkt.clouddn.com/blog1595080096218.png)
+![密码错误](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080096218.png)
 
 ---
 
 fukuoka是一个role = admin的user
 
-![fukuoka](http://qcorkht4q.bkt.clouddn.com/blog1595080164672.png)
+![fukuoka](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080164672.png)
 
-![add](http://qcorkht4q.bkt.clouddn.com/blog1595080178908.png)
+![add](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080178908.png)
 
 点update，就会跳转到没有权限页面
 
-![没有权限](http://qcorkht4q.bkt.clouddn.com/blog1595080222493.png)
+![没有权限](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080222493.png)
 
 ---
-![注册](http://qcorkht4q.bkt.clouddn.com/blog1595080242682.png)
+![注册](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080242682.png)
 
 username: okinawa
 password: okinawa
 
-![okinawa](http://qcorkht4q.bkt.clouddn.com/blog1595080408820.png)
+![okinawa](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080408820.png)
 
 数据库中的密码就是MD5加密后的
 
-![MD5](http://qcorkht4q.bkt.clouddn.com/blog1595080443855.png)
+![MD5](https://raw.githubusercontent.com/koshunho/koshunhopic/master/blog1595080443855.png)
